@@ -1,0 +1,11 @@
+{
+  "name": "masonry-gallery",
+  "version": "1.0.0",
+  "description": "simple project to implement masonry",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass styles/scss/main.scss styles/css/styles.css -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
